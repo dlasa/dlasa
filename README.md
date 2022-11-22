@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dlasa
 - 👀 I’m interested in analytics, instructional design, and personal knowledge management
-- 🌱 I’m currently learning dbt Cloud, Snowflake, Git, and Markdown
-- 💞️ I’m looking to collaborate on projects that help people achieve their learning goals
+- 🌱 I’m currently learning analytics engineering, Git, and Markdown
+- 💞️ I’m looking to collaborate on projects that help humans achieve their learning goals
 - 📫 Feel free to reach out on LinkedIn
 
 <!---
