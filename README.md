@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dlasa
 - 👀 I’m interested in analytics, instructional design, and personal knowledge management
-- 🌱 I’m currently learning dbt Cloud, and Git
 - 💞️ I’m always looking for examples of exceptional instructional design and learning experience design
 - 📫 Feel free to reach out on LinkedIn
 
