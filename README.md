@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dlasa
-- 👀 I’m interested in analytics, instructional design, and personal knowledge management
+- 👋 Hi, I’m dee lasa
+- 👀 I’m interested in learning analytics, responsible AI, and information science
 - 💞️ I’m always looking for examples of exceptional instructional design and learning experience design
 - 📫 Feel free to reach out on LinkedIn
 
