@@ -1,5 +1,5 @@
-- Hi, I’m damaris lasa
-- I’m interested in learning analytics, responsible AI, and information science
+- Hi, I’m dee lasa
+- I’m interested in learning experience design, responsible AI, and digital librarianship.
 - I’m always looking for examples of exceptional instructional design and learning experience design
 
 <!---
